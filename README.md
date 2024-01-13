@@ -33,9 +33,9 @@
 [<img align="left" alt="ShadrachWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ShadrachWilson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/shadrachwilson
-[youtube]: https://www.youtube.com/c/shadrachwilson
-[instagram]: https://www.instagram.com/shadrachwilson/
+[twitter]: https://twitter.com/shadsbeck_sean
+[youtube]: https://www.youtube.com/c/shadrachwilson1211
+[instagram]: https://www.instagram.com/shadsbeck_sean/
 [linkedin]: https://linkedin.com/in/shadrachwilson
 
 <!--
