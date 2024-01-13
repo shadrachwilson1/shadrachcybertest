@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/shadsbeck_sean
 [youtube]: https://www.youtube.com/c/shadrachwilson1211
 [instagram]: https://www.instagram.com/shadsbeck_sean/
-[linkedin]: https://linkedin.com/in/shadrachwilson-95b440a4
+[linkedin]: www.linkedin.com/in/shadrach-wilson-95b440a4
 
 <!--
 **shadrachwilson1/shadrachwilson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
